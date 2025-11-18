@@ -30,7 +30,7 @@ To run this application, you need a JavaScript runtime that supports the global 
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/aziz-prasetyo/fizz-buzz-javascript.git
-    cd fizz-buzz
+    cd fizz-buzz-javascript
     ```
 
 2.  **Run the application**
